@@ -44,8 +44,7 @@ experience:
     date_start: '2021-06-01'
     date_end: '2022-08-31'
     description: |2-
-      * Developed exploratory and in-depth analysis to give inputs for business decision making, such as selection of fraud
-      * score suppliers and expansion of experiments using Python and Excel.
+      * Developed exploratory and in-depth analysis to give inputs for business decision making, such as selection of fraud score suppliers and expansion of experiments using Python and Excel.
       * Participated in the credit engine Data Engineering team, using Python and AWS to develop a new project that increased monthly approval rate by 3%.
       * Created the acquisition funnel dashboard, modeling data with dbt and AWS Athena and visualization with Looker and Metabase.
 
