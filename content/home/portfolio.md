@@ -10,7 +10,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: ''
+title: 'Portfolio'
 subtitle: ''
 
 content:
@@ -28,17 +28,21 @@ content:
   filter_button:
     - name: All
       tag: '*'
+    - name: Data Engineering
+      tag: DE
     - name: Machine Learning
       tag: ML
     - name: Computer Vision
       tag: CV
     - name: NLP
       tag: NLP
+    - name: Data Visualization
+      tag: DV
 
 design:
   columns: '1'
   view: masonry
   flip_alt_rows: true
   background: {}
-  spacing: {padding: [0, 0, 0, 0]}
+  spacing: {padding: [1, 0, 0, 0]}
 ---
